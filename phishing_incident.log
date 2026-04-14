@@ -1,0 +1,9 @@
+2026-04-14 09:58:01 user=jsmith action=email_received sender=support@micr0soft-secure.com subject="Urgent Password Reset Required"
+2026-04-14 09:59:10 user=jsmith action=email_clicked url=http://micr0soft-secure-login.com/login
+2026-04-14 10:00:22 user=jsmith action=credential_entered status=success
+2026-04-14 10:05:44 user=jsmith action=login_attempt src_ip=185.220.101.45 location=Russia result=success
+2026-04-14 10:06:30 user=jsmith action=file_access file=employee_records.xlsx
+2026-04-14 10:07:12 user=jsmith action=file_access file=finance_data.xlsx
+2026-04-14 10:08:55 user=jsmith action=download file=employee_records.xlsx bytes=45MB
+2026-04-14 10:10:00 user=jsmith action=login_detected_anomaly reason="impossible_travel"
+2026-04-14 10:12:33 user=jsmith action=session_terminated by=soc_team
