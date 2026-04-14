@@ -27,10 +27,10 @@ A simulated phishing incident log including:
 ![Upload](evidence/01_data_upload.png)
 
 ### Search Results
-![Search](evidence/02_search_results.png)
+![Timeline](evidence/03_timeline_view.png)
 
 ### Timeline Analysis
-![Timeline](evidence/03_timeline_view.png)
+![Search](evidence/02_search_results.png)
 
 ### Suspicious Activity
 ![Suspicious](evidence/04_suspicious_activity.png)
